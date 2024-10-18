@@ -15,5 +15,5 @@ cat follows.txt | shuf | tail -10
 or 
 
 ```
-bash follow.sh | shuf | tail -10
+bash follows.sh | shuf | tail -10
 ```
